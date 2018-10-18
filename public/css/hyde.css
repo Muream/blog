@@ -248,3 +248,15 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+.spoiler {
+  background-color: lightsalmon;
+}
+.spoiler-title {
+  background-color: lightcoral;
+  padding-left: 10px;
+  cursor: pointer;
+}
+.spoiler-content {
+  padding: 10px;
+}
