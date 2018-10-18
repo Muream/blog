@@ -33,6 +33,7 @@ But this doesn’t make Joel a bad father, rather a cool dad. He barely complain
   </div>
 </details>
 
+
 ## Adaptation
 First let’s understand what we need to achieve. The cut-scene shows us a few different things:  
 - The two character love each other, even if they won’t show it explicitly
