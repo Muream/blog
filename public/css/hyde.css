@@ -114,12 +114,12 @@ a.sidebar-nav-item:focus {
   }
 }
 
-.sidebar-copyright {
-  position: absolute;
-  right:  1rem;
-  bottom: 1rem;
-  left:   1rem;
-}
+/* .sidebar-copyright { */
+/*   position: absolute; */
+/*   right:  1rem; */
+/*   bottom: 1rem; */
+/*   left:   1rem; */
+/* } */
 
 
 /* Container
