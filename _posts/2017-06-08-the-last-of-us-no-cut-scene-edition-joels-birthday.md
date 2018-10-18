@@ -6,7 +6,7 @@ title: The Last Of Us – No Cut-scene Edition – Joel's Birthday
 This post contains spoilers, some minor but also some major ones. The major ones will be in spoiler tags, but the minor ones won’t. If you haven’t played the game and are interested by it, please do so before reading these.
 
 Anyway, here’s the cut-scene i’m going to tackle today:
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/oaUFPiwifOA" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/oaUFPiwifOA" frameborder="0" allowfullscreen></iframe>
 
 For those who can’t watch it:
 Joel comes home late at night from what seems a long day of work. His daughter, Sarah, is asleep on the couch. He wakes her up and sits with her. It’s Joel’s Birthday and Sarah offers him a present: a new watch, since He kept complaining about it’s broken one. They talk a bit and Sarah falls back asleep on the couch. Joel picks her up and takes her to her bed.
