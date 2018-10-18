@@ -1,19 +1,6 @@
 ---
 layout: post
 title: The Last Of Us – No Cut-scene Edition – Joel's Birthday
-image:
-    feature: 01-TheLastOfUs-NoCutSceneEdition-JoelsBirthday.png
-categories: [Game Design, The Last Of Us]
-excerpt:
-    <p>
-        <b>Obligatory Spoiler alert:</b><br />
-        This post contains spoilers, some minor but also some major ones. The major ones will be in spoiler tags, but the minor ones won’t. If you haven’t played the game and are interested by it, please do so before reading these.
-    </p>
-    <p>
-    <p>Anyway, here’s the cut-scene i’m going to tackle today:</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/oaUFPiwifOA" frameborder="0" allowfullscreen></iframe>
-    </p>
-
 ---
 **Obligatory Spoiler alert:**  
 This post contains spoilers, some minor but also some major ones. The major ones will be in spoiler tags, but the minor ones won’t. If you haven’t played the game and are interested by it, please do so before reading these.
