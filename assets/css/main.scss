@@ -79,8 +79,8 @@ h1, h2, h3, h4, h5, h6  {
 
 blockquote {
     background-color: rgba($blue, 0.25);
-    border-radius: .5rem;
-  box-shadow: .25rem .25rem .5rem 0 rgba(black, .25);
+    border-radius: .25rem;
+    box-shadow: .25rem .25rem .5rem 0 rgba(black, .25);
     padding-right: .5rem;
     p {
         color: #CFD7E6;
@@ -95,12 +95,6 @@ blockquote {
 
 //tables
 
-table {
-  margin-bottom: 1rem;
-  width: 100%;
-  font-size: 85%;
-  border: 1px solid #61AFEF;
-  border-collapse: collapse; }
 th {
   background-color: rgba(black, .25);
 }
