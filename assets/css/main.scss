@@ -12,7 +12,7 @@ $red: #E06C75;
 // $orange: #E5C07B;
 $yellow: #E5C07B;
 $green: #98C379;
-// $cyan: #56B6C2;
+$cyan: #56B6C2;
 $blue: #61AFEF;
 // $brown: #8f5536;
 
@@ -26,12 +26,9 @@ $body-bg: #282C34;
 // $link-color: $blue;
 $heading-color: #CFD7E6;
 
-// strong{
-//   color: #ABB2BF;
-// }
 
 
-$border-color: #454C59;
+$border-color: $blue;
 // $border-radius: 300px;
 // $padding-v: 1em;
 // $padding-h: 1.5em;
@@ -63,4 +60,181 @@ $sidebar-fg-color: #CFD7E6;
 // $sidebar-link-color: $sidebar-fg-color;
 // $sidebar-text-color: rgba($sidebar-fg-color, 0.75);
 // $sidebar-icon-color: rgba($sidebar-fg-color, 0.85);
+
+// override variables before
 @import "hydeout";
+// custom css after
+
+strong{
+  color: #ABB2BF;
+}
+
+hr{
+    border-color: #ABB2BF;
+}
+
+h1, h2, h3, h4, h5, h6  {
+    color: #CFD7E6;
+}
+
+blockquote {
+    background-color: rgba($blue, 0.25);
+    border-radius: .5rem;
+  box-shadow: .25rem .25rem .5rem 0 rgba(black, .25);
+    padding-right: .5rem;
+    p {
+        color: #CFD7E6;
+    }
+}
+
+.youtube-video{
+    border-radius: .5rem;
+  box-shadow: .25rem .25rem .5rem 0 rgba(black, .25);
+}
+
+
+//tables
+
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  font-size: 85%;
+  border: 1px solid #61AFEF;
+  border-collapse: collapse; }
+th {
+  background-color: rgba(black, .25);
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: rgba(black, 0);
+}
+tbody tr:nth-child(even) td,
+tbody tr:nth-child(even) th {
+  background-color: rgba(black, .25);
+}
+
+// code highlighting
+code.highlighter-rouge{
+  background: rgba(black, .25);
+  color: $yellow;
+  border-radius: .25rem;
+  box-shadow: .1rem .1rem .25rem 0 rgba(black, .25);
+}
+.highlight, pre.highlight {
+  // background: #23272f;
+  background: rgba(black, .25);
+  color: #abb2bf;
+}
+div.highlight{
+  border-radius: .5rem;
+  box-shadow: .25rem .25rem .5rem 0 rgba(black, .25);
+}
+
+.highlight {
+  pre, .hll {
+    background: rgba(black, 0);
+    // background: #23272f;
+  }
+  .c {
+    color: #5c6370;
+    font-style: italic;
+  }
+  .err {
+    color: #960050;
+    background-color: #1e0010;
+  }
+  .k {
+    color: #c678dd;
+  }
+  .l {
+    color: #98c379;
+  }
+  .n, .o, .p {
+    color: #abb2bf;
+  }
+  .cm, .cp, .c1, .cs {
+    color: #5c6370;
+    font-style: italic;
+  }
+  .ge {
+    font-style: italic;
+  }
+  .gs {
+    font-weight: 700;
+  }
+  .kc, .kd, .kn, .kp, .kr, .kt {
+    color: #c678dd;
+  }
+  .ld {
+    color: #98c379;
+  }
+  .m {
+    color: #d19a66;
+  }
+  .s {
+    color: #98c379;
+  }
+  .na {
+    color: #d19a66;
+  }
+  .nb, .nc, .no, .nd, .ni, .ne {
+    color: #e5c07b;
+  }
+  .nf {
+    color: #abb2bf;
+  }
+  .nl {
+    color: #e5c07b;
+  }
+  .nn, .nx {
+    color: #abb2bf;
+  }
+  .py {
+    color: #e5c07b;
+  }
+  .nt {
+    color: #e06c75;
+  }
+  .nv {
+    color: #e5c07b;
+  }
+  .ow {
+    font-weight: 700;
+  }
+  .w {
+    color: #f8f8f2;
+  }
+  .mf, .mh, .mi, .mo {
+    color: #d19a66;
+  }
+  .sb, .sc, .sd, .s2, .se, .sh, .si, .sx {
+    color: #98c379;
+  }
+  .sr {
+    color: #56b6c2;
+  }
+  .s1 {
+    color: #98c379;
+  }
+  .ss {
+    color: #56b6c2;
+  }
+  .bp, .vc, .vg {
+    color: #e5c07b;
+  }
+  .vi {
+    color: #e06c75;
+  }
+  .il {
+    color: #d19a66;
+  }
+  .gu {
+    color: #75715e;
+  }
+  .gd {
+    color: #f92672;
+  }
+  .gi {
+    color: #a6e22e;
+  }
+}
