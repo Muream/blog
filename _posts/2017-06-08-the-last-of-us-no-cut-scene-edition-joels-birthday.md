@@ -2,8 +2,10 @@
 layout: post
 title: The Last Of Us – No Cut-scene Edition – Joel's Birthday
 ---
-**Obligatory Spoiler alert:**  
-This post contains spoilers, some minor but also some major ones. The major ones will be in spoiler tags, but the minor ones won’t. If you haven’t played the game and are interested by it, please do so before reading these.
+
+> **Obligatory Spoiler alert:**  
+> This post contains spoilers, some minor but also some major ones. The major ones will be in spoiler tags, but the minor ones won’t. If you haven’t played the game and are interested by it, please do so before reading these.
+{: .warning}
 
 Anyway, here’s the cut-scene i’m going to tackle today:
 <iframe width="720" height="405" class="youtube-video" src="https://www.youtube.com/embed/oaUFPiwifOA" frameborder="0" allowfullscreen></iframe>
