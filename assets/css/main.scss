@@ -86,10 +86,45 @@ blockquote {
         color: #CFD7E6;
     }
 }
+blockquote.warning{
+    border-color: $red;
+    background-color: rgba($red, 0.25);
+    border-radius: .25rem;
+    box-shadow: .25rem .25rem .5rem 0 rgba(black, .25);
+    padding-right: .5rem;
+    p {
+        color: #CFD7E6;
+    }
+}
 
 .youtube-video{
     border-radius: .5rem;
   box-shadow: .25rem .25rem .5rem 0 rgba(black, .25);
+}
+
+.spoiler{
+    background-color: rgba($red, .5);
+    border-radius: .5rem;
+    box-shadow: .25rem .25rem .5rem 0 rgba(black, .25);
+    .spoiler-title{
+        background-color: $red;
+        padding-left: .5rem;
+        color: #282C34;
+        border-radius: .5rem;
+        border-radius: .5rem;
+    }
+    .spoiler-content{
+        padding: 1rem;
+        color: #CFD7E6;
+    }
+}
+.spoiler[open] {
+    .spoiler-title{
+        border-top-left-radius: .5rem;
+        border-top-right-radius: .5rem;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+    }
 }
 
 
