@@ -65,6 +65,10 @@ $sidebar-fg-color: #CFD7E6;
 @import "hydeout";
 // custom css after
 
+body{
+  background-image: none;
+}
+
 strong{
   color: #ABB2BF;
 }
