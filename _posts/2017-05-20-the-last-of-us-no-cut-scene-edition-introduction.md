@@ -1,17 +1,6 @@
 ---
 layout: post
 title: The Last Of Us – No Cut-scene Edition – Introduction
-image:
-    feature: 00-TheLastOfUs-NoCutSceneEdition-introduction.png
-categories: [Game Design, The Last Of Us]
-excerpt:
-    <p>
-        A few days ago, Lowko (a Starcraft youtuber who produces content on some other games) posted a <a href="https://youtu.be/SsK3h_hea3M">video</a> of him playing the last of us for the first time. I’ve played and finished the game since it’s out and was curious to see his reaction to the end of the intro.
-    </p>
-
-    <p>
-        After watching him react pretty much as expected, I remembered this video from Mark Brown (a cool youtuber who makes video essays on game design). The video compares the last of us and the last guardian, especially how they treat the relationship between the characters and tell their story. The last of us does it mostly via cut scenes and the last guardian utilizes game play to achieve it.
-    </p>
 ---
 
 A few days ago, Lowko (a Starcraft youtuber who produces content on some other games) posted a [video](https://youtu.be/SsK3h_hea3M) of him playing the last of us for the first time. I’ve played and finished the game since it’s out and was curious to see his reaction to the end of the intro.
