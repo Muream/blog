@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Loïc Pinsard
 email: loic.pinsard@protonmail.com
-description: My personal blog - About 3D Graphics, Game Design and Programming.
+description: My personal blog.<br>About 3D Graphics, Game Design and Programming.<br>Currently technical 3D dude on <a href="https://www.projectborealis.com/" target="_blank">Project Borealis</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: muream
